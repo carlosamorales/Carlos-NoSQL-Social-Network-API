@@ -1,6 +1,22 @@
 {
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js", 
+    "develop": "nodemon server.js",
+    "seed": "node utils/seed.js", 
+    "test": "echo \"Error: no test specified\" && exit 1" 
+  },
+  "keywords": ["social network", "api", "mongodb", "express", "mongoose"],
+  "author": "Your Name",
+  "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2",
+    "express": "^4.19.2", 
     "mongoose": "^8.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
   }
 }
