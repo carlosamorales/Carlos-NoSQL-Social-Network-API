@@ -1,11 +1,10 @@
-# Carlos-SQL-Employee-Tracker-Challenge-12
+# Carlos-NoSQL-Social-Network-API
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-The SQL Employee Tracker Challenge is likely a project or assignment related to developing a command-line application for managing employees, roles, and departments using a SQL database.
-## Table of Contents
+MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data. This project involves building an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. The project utilizes several key technologies used by social networking platforms in their full-stack applications.
 
 - [Installation](#installation)
 - [Usage](#usage)
