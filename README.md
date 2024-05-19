@@ -19,8 +19,7 @@ https://drive.google.com/file/d/1qYg_BdxhlpuHvO352YufpcoyUkl7x8eL/view
 
 ## Usage
 
-![image](https://github.com/carlosamorales/Carlos-SQL-Employee-Tracker-Challenge-12/assets/7796766/d9a0a1a4-6364-4522-b369-3bf3637bde70)
-
+![image](https://github.com/carlosamorales/Carlos-NoSQL-Social-Network-API/assets/7796766/b8f13ae0-4405-41c5-b0a7-75ad2ca5fb5b)
 
 
 ## License
