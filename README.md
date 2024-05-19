@@ -32,7 +32,7 @@ Chat GPT
 
 ## Tests
 
-follow the message prompted after typing node index.js
+to start the app, type npm run start
 
 ## Questions
 
