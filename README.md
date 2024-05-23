@@ -6,14 +6,14 @@
 
 MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data. This project involves building an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. The project utilizes several key technologies used by social networking platforms in their full-stack applications.
 
-- [Installation](#installation)
+- [Walkthrough Video](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
-## Installation
+## Walkthrough Video
 
 https://drive.google.com/file/d/171PiKOHKtjxin247eKq88hdV6q1lMl1u/view
 
